@@ -1,4 +1,4 @@
-package com.reactnative_labs;
+package com.reactnative_samples;
 
 import android.app.Application;
 import android.content.Context;

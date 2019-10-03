@@ -128,7 +128,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.reactnative_labs"
+        applicationId "com.reactnative_samples"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1

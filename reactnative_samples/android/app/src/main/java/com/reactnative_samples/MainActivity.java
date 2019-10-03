@@ -1,4 +1,4 @@
-package com.reactnative_labs;
+package com.reactnative_samples;
 
 import com.facebook.react.ReactActivity;
 
@@ -10,6 +10,6 @@ public class MainActivity extends ReactActivity {
    */
   @Override
   protected String getMainComponentName() {
-    return "reactnative_labs";
+    return "reactnative_samples";
   }
 }
